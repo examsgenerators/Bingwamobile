@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bingwa Mobile</string>
+    <string name="accessibility_service_desc">This service allows Bingwa Mobile to automatically dial USSD codes and process mobile money transactions.</string>
+</resources>
