@@ -65,14 +65,7 @@
             </intent-filter>
         </receiver>
 
-        <receiver
-            android:name=".utils.SimChangeReceiver"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.telephony.action.SIM_CARD_STATE_CHANGED" />
-            </intent-filter>
-        </receiver>
-
+    
         <receiver
             android:name=".utils.MidnightRetryReceiver"
             android:exported="true" />
